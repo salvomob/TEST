@@ -6,6 +6,7 @@ ul {
   background-color: #333333;
 }
 
+
 li {
   font-family: Helvetica, Arial, sans-serif;
   float: left;
@@ -35,4 +36,23 @@ h2 {
   text-align: center;
   background-color: brown ;
   color: white ;
+}
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 24px;
+  background-color: black;
+  color: brown;
+}
+
+img{
+  border-radius: 50%;
+  float:left;
+  margin-right : 10px;
+}
+
+p {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 24px;
+  color:white;
 }
