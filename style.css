@@ -7,27 +7,32 @@ ul {
 }
 
 li {
+  font-family: Helvetica, Arial, sans-serif;
   float: left;
 }
 
 li a {
-  display: block;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 30px;;
+  display: inline-block;
   color: white;
   text-align: center;
-  padding: 26px;
+  padding: 32px;
   text-decoration: none;
 }
 
 li a:hover {
-  background-color: white;
+  background-color: brown;
 }
 
-h1 {
-  background-image: url('wallpaper.jpg');
+h1{
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 9px;
 }
 
 h2 {
+  font-family: Helvetica, Arial, sans-serif;
   text-align: center;
-  background-color: cyan ;
-  color:blue ;
+  background-color: brown ;
+  color: white ;
 }
