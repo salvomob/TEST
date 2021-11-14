@@ -14,8 +14,8 @@ li {
 
 li a {
   font-family: Helvetica, Arial, sans-serif;
-  font-size: 30px;;
-  display: inline-block;
+  font-size: 30px;
+  display:  block;
   color: white;
   text-align: center;
   padding: 32px;
@@ -39,6 +39,7 @@ h2 {
 }
 
 body {
+  zoom : 0.5;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 24px;
   background-color: black;
